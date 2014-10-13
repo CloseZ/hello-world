@@ -2,4 +2,4 @@ hello-world
 ===========
 
 my first repository
-I love :pizza:, :sex:.
+I love :pizza:, :love:
